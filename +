@@ -1,0 +1,29 @@
+{
+  "name": "mlp",
+  "title": "MLP",
+  "description": "The My Little Pony system for FoundryVTT!",
+  "version": "0.1.0",
+  "minimumCoreVersion": "0.7.5",
+  "compatibleCoreVersion": "0.7.9",
+  "templateVersion": 2,
+  "author": "Alvaro Gasco",
+  "esmodules": ["module/mlp.js"],
+  "styles": ["css/mlp.css"],
+  "scripts": [],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "sp",
+      "name": "Spanish",
+      "path": "lang/sp.json"
+    }
+  ],
+  "gridDistance": 5,
+  "gridUnits": "ft",
+  "primaryTokenAttribute": "health",
+  "secondaryTokenAttribute": "power",
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "LICENSE.txt"
+}
