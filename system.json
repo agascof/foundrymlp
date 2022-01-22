@@ -23,7 +23,7 @@
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
   "url": "",
-  "manifest": "",
+  "manifest": "https://github.com/agascof/foundrymlp/blob/main/system.json",
   "download": "",
   "license": "LICENSE.txt"
 }
