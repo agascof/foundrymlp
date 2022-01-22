@@ -3,7 +3,7 @@
   "title": "MLP",
   "description": "The My Little Pony system for FoundryVTT!",
   "version": "0.1.0",
-  "minimumCoreVersion": "0.7.5",
+  "minimumCoreVersion": "9",
   "compatibleCoreVersion": "9",
   "templateVersion": 2,
   "author": "Alvaro Gasco",
